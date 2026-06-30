@@ -1,0 +1,568 @@
+{
+  "origin": "https://qkffbubirjkz.mrrobot.co.il",
+  "out": "D:/newSite/qkffbubirjkz.mrrobot.co.il",
+  "counts": {
+    "pages": 55,
+    "assets": 50,
+    "external_links": 17,
+    "failures": 0
+  },
+  "totalBytes": 5618813,
+  "pages": [
+    "https://qkffbubirjkz.mrrobot.co.il/",
+    "https://qkffbubirjkz.mrrobot.co.il/about-ar.html",
+    "https://qkffbubirjkz.mrrobot.co.il/about-en.html",
+    "https://qkffbubirjkz.mrrobot.co.il/about-ru.html",
+    "https://qkffbubirjkz.mrrobot.co.il/about.html",
+    "https://qkffbubirjkz.mrrobot.co.il/blog",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/article/help-friend-bullying-stay-connected",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/article/konfliktim-vs-bullying-guide",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/article/mahi-berionut-bareshet-ma-laasot",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/article/school-bags-after-hard-school-day",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/category/general",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%90%D7%9C%D7%99%D7%9E%D7%95%D7%AA-%D7%9E%D7%99%D7%9C%D7%95%D7%9C%D7%99%D7%AA",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%91%D7%93%D7%99%D7%93%D7%95%D7%AA-%D7%97%D7%91%D7%A8%D7%AA%D7%99%D7%AA",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%91%D7%98%D7%99%D7%97%D7%95%D7%AA-%D7%93%D7%99%D7%92%D7%99%D7%98%D7%9C%D7%99%D7%AA",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%91%D7%A8%D7%99%D7%95%D7%A0%D7%95%D7%AA-%D7%91%D7%91%D7%99%D7%AA-%D7%94%D7%A1%D7%A4%D7%A8",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%91%D7%A8%D7%99%D7%95%D7%A0%D7%95%D7%AA-%D7%91%D7%A8%D7%A9%D7%AA",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%93%D7%99%D7%95%D7%95%D7%97-%D7%9C-105",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%94%D7%92%D7%A0%D7%94-%D7%A2%D7%9C-%D7%97%D7%A9%D7%91%D7%95%D7%A0%D7%95%D7%AA",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%94%D7%98%D7%A8%D7%93%D7%94-%D7%9E%D7%A7%D7%95%D7%95%D7%A0%D7%AA",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%94%D7%AA%D7%9E%D7%95%D7%93%D7%93%D7%95%D7%AA-%D7%A2%D7%9D-%D7%91%D7%A8%D7%99%D7%95%D7%A0%D7%95%D7%AA",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%96%D7%99%D7%94%D7%95%D7%99-%D7%91%D7%A8%D7%99%D7%95%D7%A0%D7%95%D7%AA",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%97%D7%91%D7%A8%D7%95%D7%AA-%D7%91%D7%98%D7%95%D7%97%D7%94",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%A1%D7%95%D7%92%D7%99-%D7%A7%D7%95%D7%A0%D7%A4%D7%9C%D7%99%D7%A7%D7%98%D7%99%D7%9D",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%A1%D7%99%D7%93%D7%95%D7%A8-%D7%AA%D7%99%D7%A7",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%A2%D7%96%D7%A8%D7%94-%D7%A8%D7%92%D7%A9%D7%99%D7%AA",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%AA%D7%99%D7%A7%D7%99%D7%9D-%D7%9C%D7%91%D7%99%D7%AA-%D7%A1%D7%A4%D7%A8",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%AA%D7%99%D7%A7-%D7%9C%D7%99%D7%9C%D7%93%D7%99%D7%9D",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%AA%D7%99%D7%A7-%D7%9C%D7%A0%D7%95%D7%A2%D7%A8",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%AA%D7%99%D7%A7-%D7%A0%D7%95%D7%97",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%AA%D7%9E%D7%99%D7%9B%D7%94-%D7%97%D7%91%D7%A8%D7%AA%D7%99%D7%AA",
+    "https://qkffbubirjkz.mrrobot.co.il/contact-ar.html",
+    "https://qkffbubirjkz.mrrobot.co.il/contact-en.html",
+    "https://qkffbubirjkz.mrrobot.co.il/contact-ru.html",
+    "https://qkffbubirjkz.mrrobot.co.il/contact.html",
+    "https://qkffbubirjkz.mrrobot.co.il/faq-ar.html",
+    "https://qkffbubirjkz.mrrobot.co.il/faq-en.html",
+    "https://qkffbubirjkz.mrrobot.co.il/faq-ru.html",
+    "https://qkffbubirjkz.mrrobot.co.il/faq.html",
+    "https://qkffbubirjkz.mrrobot.co.il/healing-ar.html",
+    "https://qkffbubirjkz.mrrobot.co.il/healing-en.html",
+    "https://qkffbubirjkz.mrrobot.co.il/healing-ru.html",
+    "https://qkffbubirjkz.mrrobot.co.il/healing.html",
+    "https://qkffbubirjkz.mrrobot.co.il/index-ar.html",
+    "https://qkffbubirjkz.mrrobot.co.il/index-en.html",
+    "https://qkffbubirjkz.mrrobot.co.il/index-ru.html",
+    "https://qkffbubirjkz.mrrobot.co.il/index.html",
+    "https://qkffbubirjkz.mrrobot.co.il/privacy-ar.html",
+    "https://qkffbubirjkz.mrrobot.co.il/privacy-en.html",
+    "https://qkffbubirjkz.mrrobot.co.il/privacy-ru.html",
+    "https://qkffbubirjkz.mrrobot.co.il/privacy.html",
+    "https://qkffbubirjkz.mrrobot.co.il/report-ar.html",
+    "https://qkffbubirjkz.mrrobot.co.il/report-en.html",
+    "https://qkffbubirjkz.mrrobot.co.il/report-ru.html",
+    "https://qkffbubirjkz.mrrobot.co.il/report.html"
+  ],
+  "assets": [
+    "https://cdn.jsdelivr.net/npm/prismjs@1.29.0/plugins/autoloader/prism-autoloader.min.js",
+    "https://cdn.jsdelivr.net/npm/prismjs@1.29.0/prism.min.js",
+    "https://cdn.jsdelivr.net/npm/prismjs@1.29.0/themes/prism-tomorrow.min.css",
+    "https://cdn.jsdelivr.net/npm/prismjs@1.29.0/themes/prism.min.css",
+    "https://fonts.googleapis.com/css2?family=Assistant:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap",
+    "https://fonts.googleapis.com/css2?family=Assistant:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700;800&family=Noto+Sans+Arabic:wght@400;500;600;700;800&display=swap",
+    "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400&display=swap",
+    "https://fonts.gstatic.com/s/assistant/v24/2sDPZGJYnIjSi6H75xkZZE1I0yCmYzzQtgFgEGE.ttf",
+    "https://fonts.gstatic.com/s/assistant/v24/2sDPZGJYnIjSi6H75xkZZE1I0yCmYzzQtjhgEGE.ttf",
+    "https://fonts.gstatic.com/s/assistant/v24/2sDPZGJYnIjSi6H75xkZZE1I0yCmYzzQtmZgEGE.ttf",
+    "https://fonts.gstatic.com/s/assistant/v24/2sDPZGJYnIjSi6H75xkZZE1I0yCmYzzQtrhnEGE.ttf",
+    "https://fonts.gstatic.com/s/assistant/v24/2sDPZGJYnIjSi6H75xkZZE1I0yCmYzzQttRnEGE.ttf",
+    "https://fonts.gstatic.com/s/assistant/v24/2sDPZGJYnIjSi6H75xkZZE1I0yCmYzzQtuZnEGE.ttf",
+    "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf",
+    "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf",
+    "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf",
+    "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf",
+    "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf",
+    "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf",
+    "https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8-qxjPQ.ttf",
+    "https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKxjPQ.ttf",
+    "https://fonts.gstatic.com/s/notosansarabic/v33/nwpxtLGrOAZMl5nJ_wfgRg3DrWFZWsnVBJ_sS6tlqHHFlhQ5l3sQWIHPqzCf-myvuw.ttf",
+    "https://fonts.gstatic.com/s/notosansarabic/v33/nwpxtLGrOAZMl5nJ_wfgRg3DrWFZWsnVBJ_sS6tlqHHFlhQ5l3sQWIHPqzCfFmuvuw.ttf",
+    "https://fonts.gstatic.com/s/notosansarabic/v33/nwpxtLGrOAZMl5nJ_wfgRg3DrWFZWsnVBJ_sS6tlqHHFlhQ5l3sQWIHPqzCfL2uvuw.ttf",
+    "https://fonts.gstatic.com/s/notosansarabic/v33/nwpxtLGrOAZMl5nJ_wfgRg3DrWFZWsnVBJ_sS6tlqHHFlhQ5l3sQWIHPqzCfSGuvuw.ttf",
+    "https://fonts.gstatic.com/s/notosansarabic/v33/nwpxtLGrOAZMl5nJ_wfgRg3DrWFZWsnVBJ_sS6tlqHHFlhQ5l3sQWIHPqzCfyGyvuw.ttf",
+    "https://mrrobot.co.il/assets/js/virtual-assistant.js",
+    "https://qkffbubirjkz.mrrobot.co.il/_uploads/IMG_1808.webp",
+    "https://qkffbubirjkz.mrrobot.co.il/_uploads/__________%201%20________%20______________.jpeg",
+    "https://qkffbubirjkz.mrrobot.co.il/_uploads/ai_b46126c0dd08f412.jpg",
+    "https://qkffbubirjkz.mrrobot.co.il/_uploads/article_115.webp",
+    "https://qkffbubirjkz.mrrobot.co.il/_uploads/article_116.webp",
+    "https://qkffbubirjkz.mrrobot.co.il/_uploads/article_117.webp",
+    "https://qkffbubirjkz.mrrobot.co.il/_uploads/article_118.webp",
+    "https://qkffbubirjkz.mrrobot.co.il/_uploads/hero-about.webp",
+    "https://qkffbubirjkz.mrrobot.co.il/_uploads/hero-contact.webp",
+    "https://qkffbubirjkz.mrrobot.co.il/_uploads/hero-home.webp",
+    "https://qkffbubirjkz.mrrobot.co.il/_uploads/hero-report.webp",
+    "https://qkffbubirjkz.mrrobot.co.il/_uploads/pasted-1778962163842-0.png",
+    "https://qkffbubirjkz.mrrobot.co.il/_uploads/pillar-friends.webp",
+    "https://qkffbubirjkz.mrrobot.co.il/_uploads/pillar-listen.webp",
+    "https://qkffbubirjkz.mrrobot.co.il/_uploads/pillar-mentor.webp",
+    "https://qkffbubirjkz.mrrobot.co.il/_uploads/pillar-shield.webp",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/assets/script.js?v=6",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/assets/style.css?v=13",
+    "https://qkffbubirjkz.mrrobot.co.il/blog/feed.xml",
+    "https://qkffbubirjkz.mrrobot.co.il/healing.css?v=11",
+    "https://qkffbubirjkz.mrrobot.co.il/healing.js?v=4",
+    "https://qkffbubirjkz.mrrobot.co.il/script.js?v=12",
+    "https://qkffbubirjkz.mrrobot.co.il/styles.css?v=23"
+  ],
+  "externalLinks": [
+    "https://mrrobot.co.il/",
+    "https://twitter.com/intent/tweet?url=https://qkffbubirjkz.mrrobot.co.il/blog/article/help-friend-bullying-stay-connected&text=%D7%9B%D7%9A%20%D7%AA%D7%99%D7%A9%D7%90%D7%A8%D7%95%20%D7%9C%D7%A6%D7%93%20%D7%97%D7%91%D7%A8%20%D7%A9%D7%97%D7%95%D7%95%D7%94%20%D7%91%D7%A8%D7%99%D7%95%D7%A0%D7%95%D7%AA%20%D7%92%D7%9D%20%D7%9B%D7%A9%D7%94%D7%95%D7%90%20%D7%9E%D7%AA%D7%A8%D7%97%D7%A7",
+    "https://twitter.com/intent/tweet?url=https://qkffbubirjkz.mrrobot.co.il/blog/article/konfliktim-vs-bullying-guide&text=%D7%A1%D7%95%D7%92%D7%99%20%D7%A7%D7%95%D7%A0%D7%A4%D7%9C%D7%99%D7%A7%D7%98%D7%99%D7%9D%20%D7%9E%D7%95%D7%9C%20%D7%91%D7%A8%D7%99%D7%95%D7%A0%D7%95%D7%AA:%20%D7%90%D7%99%D7%9A%20%D7%9C%D7%96%D7%94%D7%95%D7%AA,%20%D7%9C%D7%94%D7%92%D7%99%D7%91%20%D7%95%D7%9C%D7%91%D7%A7%D7%A9%20%D7%A2%D7%96%D7%A8%D7%94",
+    "https://twitter.com/intent/tweet?url=https://qkffbubirjkz.mrrobot.co.il/blog/article/mahi-berionut-bareshet-ma-laasot&text=%D7%9B%D7%9A%20%D7%AA%D7%96%D7%94%D7%95%20%D7%91%D7%A8%D7%99%D7%95%D7%A0%D7%95%D7%AA%20%D7%91%D7%A8%D7%A9%D7%AA%20%D7%95%D7%AA%D7%93%D7%A2%D7%95%20%D7%9E%D7%AA%D7%99%20%D7%9C%D7%97%D7%A1%D7%95%D7%9D,%20%D7%9C%D7%93%D7%95%D7%95%D7%97%20%D7%95%D7%9C%D7%91%D7%A7%D7%A9%20%D7%A2%D7%96%D7%A8%D7%94",
+    "https://twitter.com/intent/tweet?url=https://qkffbubirjkz.mrrobot.co.il/blog/article/school-bags-after-hard-school-day&text=%D7%90%D7%97%D7%A8%D7%99%20%D7%99%D7%95%D7%9D%20%D7%A7%D7%A9%D7%94%20%D7%91%D7%91%D7%99%D7%AA%20%D7%94%D7%A1%D7%A4%D7%A8:%20%D7%90%D7%99%D7%9A%20%D7%AA%D7%99%D7%A7%D7%99%D7%9D%20%D7%9C%D7%91%D7%99%D7%AA%20%D7%A1%D7%A4%D7%A8%20%D7%9E%D7%A7%D7%9C%D7%99%D7%9D%20%D7%A2%D7%9C%20%D7%94%D7%A2%D7%95%D7%9E%D7%A1",
+    "https://wa.me/?text=%D7%90%D7%97%D7%A8%D7%99%20%D7%99%D7%95%D7%9D%20%D7%A7%D7%A9%D7%94%20%D7%91%D7%91%D7%99%D7%AA%20%D7%94%D7%A1%D7%A4%D7%A8:%20%D7%90%D7%99%D7%9A%20%D7%AA%D7%99%D7%A7%D7%99%D7%9D%20%D7%9C%D7%91%D7%99%D7%AA%20%D7%A1%D7%A4%D7%A8%20%D7%9E%D7%A7%D7%9C%D7%99%D7%9D%20%D7%A2%D7%9C%20%D7%94%D7%A2%D7%95%D7%9E%D7%A1%20https://qkffbubirjkz.mrrobot.co.il/blog/article/school-bags-after-hard-school-day",
+    "https://wa.me/?text=%D7%9B%D7%9A%20%D7%AA%D7%96%D7%94%D7%95%20%D7%91%D7%A8%D7%99%D7%95%D7%A0%D7%95%D7%AA%20%D7%91%D7%A8%D7%A9%D7%AA%20%D7%95%D7%AA%D7%93%D7%A2%D7%95%20%D7%9E%D7%AA%D7%99%20%D7%9C%D7%97%D7%A1%D7%95%D7%9D,%20%D7%9C%D7%93%D7%95%D7%95%D7%97%20%D7%95%D7%9C%D7%91%D7%A7%D7%A9%20%D7%A2%D7%96%D7%A8%D7%94%20https://qkffbubirjkz.mrrobot.co.il/blog/article/mahi-berionut-bareshet-ma-laasot",
+    "https://wa.me/?text=%D7%9B%D7%9A%20%D7%AA%D7%99%D7%A9%D7%90%D7%A8%D7%95%20%D7%9C%D7%A6%D7%93%20%D7%97%D7%91%D7%A8%20%D7%A9%D7%97%D7%95%D7%95%D7%94%20%D7%91%D7%A8%D7%99%D7%95%D7%A0%D7%95%D7%AA%20%D7%92%D7%9D%20%D7%9B%D7%A9%D7%94%D7%95%D7%90%20%D7%9E%D7%AA%D7%A8%D7%97%D7%A7%20https://qkffbubirjkz.mrrobot.co.il/blog/article/help-friend-bullying-stay-connected",
+    "https://wa.me/?text=%D7%A1%D7%95%D7%92%D7%99%20%D7%A7%D7%95%D7%A0%D7%A4%D7%9C%D7%99%D7%A7%D7%98%D7%99%D7%9D%20%D7%9E%D7%95%D7%9C%20%D7%91%D7%A8%D7%99%D7%95%D7%A0%D7%95%D7%AA:%20%D7%90%D7%99%D7%9A%20%D7%9C%D7%96%D7%94%D7%95%D7%AA,%20%D7%9C%D7%94%D7%92%D7%99%D7%91%20%D7%95%D7%9C%D7%91%D7%A7%D7%A9%20%D7%A2%D7%96%D7%A8%D7%94%20https://qkffbubirjkz.mrrobot.co.il/blog/article/konfliktim-vs-bullying-guide",
+    "https://www.facebook.com/sharer/sharer.php?u=https://qkffbubirjkz.mrrobot.co.il/blog/article/help-friend-bullying-stay-connected",
+    "https://www.facebook.com/sharer/sharer.php?u=https://qkffbubirjkz.mrrobot.co.il/blog/article/konfliktim-vs-bullying-guide",
+    "https://www.facebook.com/sharer/sharer.php?u=https://qkffbubirjkz.mrrobot.co.il/blog/article/mahi-berionut-bareshet-ma-laasot",
+    "https://www.facebook.com/sharer/sharer.php?u=https://qkffbubirjkz.mrrobot.co.il/blog/article/school-bags-after-hard-school-day",
+    "https://www.linkedin.com/shareArticle?mini=true&url=https://qkffbubirjkz.mrrobot.co.il/blog/article/help-friend-bullying-stay-connected&title=%D7%9B%D7%9A%20%D7%AA%D7%99%D7%A9%D7%90%D7%A8%D7%95%20%D7%9C%D7%A6%D7%93%20%D7%97%D7%91%D7%A8%20%D7%A9%D7%97%D7%95%D7%95%D7%94%20%D7%91%D7%A8%D7%99%D7%95%D7%A0%D7%95%D7%AA%20%D7%92%D7%9D%20%D7%9B%D7%A9%D7%94%D7%95%D7%90%20%D7%9E%D7%AA%D7%A8%D7%97%D7%A7",
+    "https://www.linkedin.com/shareArticle?mini=true&url=https://qkffbubirjkz.mrrobot.co.il/blog/article/konfliktim-vs-bullying-guide&title=%D7%A1%D7%95%D7%92%D7%99%20%D7%A7%D7%95%D7%A0%D7%A4%D7%9C%D7%99%D7%A7%D7%98%D7%99%D7%9D%20%D7%9E%D7%95%D7%9C%20%D7%91%D7%A8%D7%99%D7%95%D7%A0%D7%95%D7%AA:%20%D7%90%D7%99%D7%9A%20%D7%9C%D7%96%D7%94%D7%95%D7%AA,%20%D7%9C%D7%94%D7%92%D7%99%D7%91%20%D7%95%D7%9C%D7%91%D7%A7%D7%A9%20%D7%A2%D7%96%D7%A8%D7%94",
+    "https://www.linkedin.com/shareArticle?mini=true&url=https://qkffbubirjkz.mrrobot.co.il/blog/article/mahi-berionut-bareshet-ma-laasot&title=%D7%9B%D7%9A%20%D7%AA%D7%96%D7%94%D7%95%20%D7%91%D7%A8%D7%99%D7%95%D7%A0%D7%95%D7%AA%20%D7%91%D7%A8%D7%A9%D7%AA%20%D7%95%D7%AA%D7%93%D7%A2%D7%95%20%D7%9E%D7%AA%D7%99%20%D7%9C%D7%97%D7%A1%D7%95%D7%9D,%20%D7%9C%D7%93%D7%95%D7%95%D7%97%20%D7%95%D7%9C%D7%91%D7%A7%D7%A9%20%D7%A2%D7%96%D7%A8%D7%94",
+    "https://www.linkedin.com/shareArticle?mini=true&url=https://qkffbubirjkz.mrrobot.co.il/blog/article/school-bags-after-hard-school-day&title=%D7%90%D7%97%D7%A8%D7%99%20%D7%99%D7%95%D7%9D%20%D7%A7%D7%A9%D7%94%20%D7%91%D7%91%D7%99%D7%AA%20%D7%94%D7%A1%D7%A4%D7%A8:%20%D7%90%D7%99%D7%9A%20%D7%AA%D7%99%D7%A7%D7%99%D7%9D%20%D7%9C%D7%91%D7%99%D7%AA%20%D7%A1%D7%A4%D7%A8%20%D7%9E%D7%A7%D7%9C%D7%99%D7%9D%20%D7%A2%D7%9C%20%D7%94%D7%A2%D7%95%D7%9E%D7%A1"
+  ],
+  "redirects": [
+    {
+      "from": "https://qkffbubirjkz.mrrobot.co.il/blog",
+      "to": "https://qkffbubirjkz.mrrobot.co.il/blog/"
+    }
+  ],
+  "failures": [],
+  "saved": [
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/",
+      "file": "index.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/index.html",
+      "file": "index__qktfwpv.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/contact.html",
+      "file": "contact.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/index-ar.html",
+      "file": "index-ar.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/index-en.html",
+      "file": "index-en.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/index-ru.html",
+      "file": "index-ru.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/about.html",
+      "file": "about.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/healing.html",
+      "file": "healing.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/faq.html",
+      "file": "faq.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/report.html",
+      "file": "report.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/privacy.html",
+      "file": "privacy.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog",
+      "file": "blog/index.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/contact-en.html",
+      "file": "contact-en.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/contact-ar.html",
+      "file": "contact-ar.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/contact-ru.html",
+      "file": "contact-ru.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/about-ar.html",
+      "file": "about-ar.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/healing-ar.html",
+      "file": "healing-ar.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/report-ar.html",
+      "file": "report-ar.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/faq-ar.html",
+      "file": "faq-ar.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/privacy-ar.html",
+      "file": "privacy-ar.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/about-en.html",
+      "file": "about-en.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/healing-en.html",
+      "file": "healing-en.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/report-en.html",
+      "file": "report-en.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/faq-en.html",
+      "file": "faq-en.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/privacy-en.html",
+      "file": "privacy-en.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/about-ru.html",
+      "file": "about-ru.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/healing-ru.html",
+      "file": "healing-ru.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/report-ru.html",
+      "file": "report-ru.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/faq-ru.html",
+      "file": "faq-ru.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/privacy-ru.html",
+      "file": "privacy-ru.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/",
+      "file": "blog/index__q1gdgv8h.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/category/general",
+      "file": "blog/category/general/index.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/article/help-friend-bullying-stay-connected",
+      "file": "blog/article/help-friend-bullying-stay-connected/index.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/article/school-bags-after-hard-school-day",
+      "file": "blog/article/school-bags-after-hard-school-day/index.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/article/mahi-berionut-bareshet-ma-laasot",
+      "file": "blog/article/mahi-berionut-bareshet-ma-laasot/index.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/article/konfliktim-vs-bullying-guide",
+      "file": "blog/article/konfliktim-vs-bullying-guide/index.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%91%D7%A8%D7%99%D7%95%D7%A0%D7%95%D7%AA-%D7%91%D7%91%D7%99%D7%AA-%D7%94%D7%A1%D7%A4%D7%A8",
+      "file": "blog/tag/בריונות-בבית-הספר/index.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%AA%D7%9E%D7%99%D7%9B%D7%94-%D7%97%D7%91%D7%A8%D7%AA%D7%99%D7%AA",
+      "file": "blog/tag/תמיכה-חברתית/index.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%97%D7%91%D7%A8%D7%95%D7%AA-%D7%91%D7%98%D7%95%D7%97%D7%94",
+      "file": "blog/tag/חברות-בטוחה/index.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%A2%D7%96%D7%A8%D7%94-%D7%A8%D7%92%D7%A9%D7%99%D7%AA",
+      "file": "blog/tag/עזרה-רגשית/index.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%91%D7%93%D7%99%D7%93%D7%95%D7%AA-%D7%97%D7%91%D7%A8%D7%AA%D7%99%D7%AA",
+      "file": "blog/tag/בדידות-חברתית/index.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%AA%D7%99%D7%A7-%D7%9C%D7%A0%D7%95%D7%A2%D7%A8",
+      "file": "blog/tag/תיק-לנוער/index.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%AA%D7%99%D7%A7%D7%99%D7%9D-%D7%9C%D7%91%D7%99%D7%AA-%D7%A1%D7%A4%D7%A8",
+      "file": "blog/tag/תיקים-לבית-ספר/index.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%AA%D7%99%D7%A7-%D7%9C%D7%99%D7%9C%D7%93%D7%99%D7%9D",
+      "file": "blog/tag/תיק-לילדים/index.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%AA%D7%99%D7%A7-%D7%A0%D7%95%D7%97",
+      "file": "blog/tag/תיק-נוח/index.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%91%D7%A8%D7%99%D7%95%D7%A0%D7%95%D7%AA-%D7%91%D7%A8%D7%A9%D7%AA",
+      "file": "blog/tag/בריונות-ברשת/index.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%A1%D7%99%D7%93%D7%95%D7%A8-%D7%AA%D7%99%D7%A7",
+      "file": "blog/tag/סידור-תיק/index.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%91%D7%98%D7%99%D7%97%D7%95%D7%AA-%D7%93%D7%99%D7%92%D7%99%D7%98%D7%9C%D7%99%D7%AA",
+      "file": "blog/tag/בטיחות-דיגיטלית/index.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%93%D7%99%D7%95%D7%95%D7%97-%D7%9C-105",
+      "file": "blog/tag/דיווח-ל-105/index.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%94%D7%98%D7%A8%D7%93%D7%94-%D7%9E%D7%A7%D7%95%D7%95%D7%A0%D7%AA",
+      "file": "blog/tag/הטרדה-מקוונת/index.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%94%D7%92%D7%A0%D7%94-%D7%A2%D7%9C-%D7%97%D7%A9%D7%91%D7%95%D7%A0%D7%95%D7%AA",
+      "file": "blog/tag/הגנה-על-חשבונות/index.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%94%D7%AA%D7%9E%D7%95%D7%93%D7%93%D7%95%D7%AA-%D7%A2%D7%9D-%D7%91%D7%A8%D7%99%D7%95%D7%A0%D7%95%D7%AA",
+      "file": "blog/tag/התמודדות-עם-בריונות/index.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%A1%D7%95%D7%92%D7%99-%D7%A7%D7%95%D7%A0%D7%A4%D7%9C%D7%99%D7%A7%D7%98%D7%99%D7%9D",
+      "file": "blog/tag/סוגי-קונפליקטים/index.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%90%D7%9C%D7%99%D7%9E%D7%95%D7%AA-%D7%9E%D7%99%D7%9C%D7%95%D7%9C%D7%99%D7%AA",
+      "file": "blog/tag/אלימות-מילולית/index.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/tag/%D7%96%D7%99%D7%94%D7%95%D7%99-%D7%91%D7%A8%D7%99%D7%95%D7%A0%D7%95%D7%AA",
+      "file": "blog/tag/זיהוי-בריונות/index.html"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/_uploads/IMG_1808.webp",
+      "file": "_uploads/IMG_1808.webp"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/script.js?v=12",
+      "file": "script.js"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/styles.css?v=23",
+      "file": "styles.css"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/_uploads/hero-home.webp",
+      "file": "_uploads/hero-home.webp"
+    },
+    {
+      "url": "https://mrrobot.co.il/assets/js/virtual-assistant.js",
+      "file": "_external/mrrobot.co.il/assets/js/virtual-assistant.js"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/_uploads/ai_b46126c0dd08f412.jpg",
+      "file": "_uploads/ai_b46126c0dd08f412.jpg"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/_uploads/hero-contact.webp",
+      "file": "_uploads/hero-contact.webp"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/healing.css?v=11",
+      "file": "healing.css"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/healing.js?v=4",
+      "file": "healing.js"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/_uploads/hero-about.webp",
+      "file": "_uploads/hero-about.webp"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/_uploads/pasted-1778962163842-0.png",
+      "file": "_uploads/pasted-1778962163842-0.png"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/_uploads/hero-report.webp",
+      "file": "_uploads/hero-report.webp"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/feed.xml",
+      "file": "blog/feed.xml"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/assets/style.css?v=13",
+      "file": "blog/assets/style.css"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/prismjs@1.29.0/themes/prism.min.css",
+      "file": "_external/cdn.jsdelivr.net/npm/prismjs@1.29.0/themes/prism.min.css"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/_uploads/article_118.webp",
+      "file": "_uploads/article_118.webp"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/prismjs@1.29.0/themes/prism-tomorrow.min.css",
+      "file": "_external/cdn.jsdelivr.net/npm/prismjs@1.29.0/themes/prism-tomorrow.min.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400&display=swap",
+      "file": "_external/fonts.googleapis.com/css2"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/_uploads/article_117.webp",
+      "file": "_uploads/article_117.webp"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/_uploads/article_116.webp",
+      "file": "_uploads/article_116.webp"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/prismjs@1.29.0/prism.min.js",
+      "file": "_external/cdn.jsdelivr.net/npm/prismjs@1.29.0/prism.min.js"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/_uploads/article_115.webp",
+      "file": "_uploads/article_115.webp"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/blog/assets/script.js?v=6",
+      "file": "blog/assets/script.js"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/prismjs@1.29.0/plugins/autoloader/prism-autoloader.min.js",
+      "file": "_external/cdn.jsdelivr.net/npm/prismjs@1.29.0/plugins/autoloader/prism-autoloader.min.js"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Assistant:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700;800&family=Noto+Sans+Arabic:wght@400;500;600;700;800&display=swap",
+      "file": "_external/fonts.googleapis.com/css2__qz2rg2m"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/_uploads/pillar-listen.webp",
+      "file": "_uploads/pillar-listen.webp"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/_uploads/pillar-shield.webp",
+      "file": "_uploads/pillar-shield.webp"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/_uploads/pillar-friends.webp",
+      "file": "_uploads/pillar-friends.webp"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/_uploads/__________%201%20________%20______________.jpeg",
+      "file": "_uploads/__________ 1 ________ ______________.jpeg"
+    },
+    {
+      "url": "https://qkffbubirjkz.mrrobot.co.il/_uploads/pillar-mentor.webp",
+      "file": "_uploads/pillar-mentor.webp"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Assistant:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap",
+      "file": "_external/fonts.googleapis.com/css2__q13q1h7m"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf",
+      "file": "_external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf",
+      "file": "_external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf",
+      "file": "_external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf",
+      "file": "_external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKxjPQ.ttf",
+      "file": "_external/fonts.gstatic.com/s/jetbrainsmono/v24/tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKxjPQ.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/assistant/v24/2sDPZGJYnIjSi6H75xkZZE1I0yCmYzzQtuZnEGE.ttf",
+      "file": "_external/fonts.gstatic.com/s/assistant/v24/2sDPZGJYnIjSi6H75xkZZE1I0yCmYzzQtuZnEGE.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf",
+      "file": "_external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/assistant/v24/2sDPZGJYnIjSi6H75xkZZE1I0yCmYzzQttRnEGE.ttf",
+      "file": "_external/fonts.gstatic.com/s/assistant/v24/2sDPZGJYnIjSi6H75xkZZE1I0yCmYzzQttRnEGE.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/assistant/v24/2sDPZGJYnIjSi6H75xkZZE1I0yCmYzzQtjhgEGE.ttf",
+      "file": "_external/fonts.gstatic.com/s/assistant/v24/2sDPZGJYnIjSi6H75xkZZE1I0yCmYzzQtjhgEGE.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/assistant/v24/2sDPZGJYnIjSi6H75xkZZE1I0yCmYzzQtmZgEGE.ttf",
+      "file": "_external/fonts.gstatic.com/s/assistant/v24/2sDPZGJYnIjSi6H75xkZZE1I0yCmYzzQtmZgEGE.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/assistant/v24/2sDPZGJYnIjSi6H75xkZZE1I0yCmYzzQtgFgEGE.ttf",
+      "file": "_external/fonts.gstatic.com/s/assistant/v24/2sDPZGJYnIjSi6H75xkZZE1I0yCmYzzQtgFgEGE.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/notosansarabic/v33/nwpxtLGrOAZMl5nJ_wfgRg3DrWFZWsnVBJ_sS6tlqHHFlhQ5l3sQWIHPqzCfyGyvuw.ttf",
+      "file": "_external/fonts.gstatic.com/s/notosansarabic/v33/nwpxtLGrOAZMl5nJ_wfgRg3DrWFZWsnVBJ_sS6tlqHHFlhQ5l3sQWIHPqzCfyGyvuw.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/notosansarabic/v33/nwpxtLGrOAZMl5nJ_wfgRg3DrWFZWsnVBJ_sS6tlqHHFlhQ5l3sQWIHPqzCfL2uvuw.ttf",
+      "file": "_external/fonts.gstatic.com/s/notosansarabic/v33/nwpxtLGrOAZMl5nJ_wfgRg3DrWFZWsnVBJ_sS6tlqHHFlhQ5l3sQWIHPqzCfL2uvuw.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/notosansarabic/v33/nwpxtLGrOAZMl5nJ_wfgRg3DrWFZWsnVBJ_sS6tlqHHFlhQ5l3sQWIHPqzCf-myvuw.ttf",
+      "file": "_external/fonts.gstatic.com/s/notosansarabic/v33/nwpxtLGrOAZMl5nJ_wfgRg3DrWFZWsnVBJ_sS6tlqHHFlhQ5l3sQWIHPqzCf-myvuw.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/notosansarabic/v33/nwpxtLGrOAZMl5nJ_wfgRg3DrWFZWsnVBJ_sS6tlqHHFlhQ5l3sQWIHPqzCfFmuvuw.ttf",
+      "file": "_external/fonts.gstatic.com/s/notosansarabic/v33/nwpxtLGrOAZMl5nJ_wfgRg3DrWFZWsnVBJ_sS6tlqHHFlhQ5l3sQWIHPqzCfFmuvuw.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/notosansarabic/v33/nwpxtLGrOAZMl5nJ_wfgRg3DrWFZWsnVBJ_sS6tlqHHFlhQ5l3sQWIHPqzCfSGuvuw.ttf",
+      "file": "_external/fonts.gstatic.com/s/notosansarabic/v33/nwpxtLGrOAZMl5nJ_wfgRg3DrWFZWsnVBJ_sS6tlqHHFlhQ5l3sQWIHPqzCfSGuvuw.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/assistant/v24/2sDPZGJYnIjSi6H75xkZZE1I0yCmYzzQtrhnEGE.ttf",
+      "file": "_external/fonts.gstatic.com/s/assistant/v24/2sDPZGJYnIjSi6H75xkZZE1I0yCmYzzQtrhnEGE.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf",
+      "file": "_external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8-qxjPQ.ttf",
+      "file": "_external/fonts.gstatic.com/s/jetbrainsmono/v24/tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8-qxjPQ.ttf"
+    }
+  ]
+}
