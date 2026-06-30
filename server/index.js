@@ -2,6 +2,7 @@ const express = require('express');
 const mongoose = require('mongoose');
 const cors = require('cors');
 require('dotenv').config(); // טעינת משתנים סודיים מקובץ .env
+const cors = require('cors');
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -9,6 +10,9 @@ const PORT = process.env.PORT || 5000;
 // הגדרת CORS – מאפשר לפרונטנד לדבר עם הבאקאנד
 app.use(cors());
 app.use(express.json()); // מאפשר לשרת לקרוא מידע שנשלח בפורמט JSON
+app.use(cors({
+    origin: '*'
+}));
 
 // --- התחברות ל-MongoDB Atlas ---
 const mongoURI = process.env.MONGODB_URI;
